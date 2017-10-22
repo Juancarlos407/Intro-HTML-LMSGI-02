@@ -2,6 +2,6 @@
 ## Página HTML para la introducción del lenguaje 
 
 
-_En esta entrega he creado una sencilla página web en HTML evitando usar hojas de estilo en cascada para el diseño, cuenta con la estructura básica, imágenes que he reducido a 192px, links, una lista y una tabla, en total un peso de 65kb.
+_En esta entrega he creado una sencilla página web en HTML evitando usar hojas de estilo en cascada para el diseño, cuenta con la estructura básica, imágenes que he reducido a 192px, links, una lista y una tabla, en total un peso de 65kb._
 
 [Aquí] mi página en RawGit(https://rawgit.com/Juancarlos407/Introducci-als-Llenguatges-de-Marques-LLSGI-01/master/EJEMPLOHTML.html)
